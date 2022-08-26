@@ -1,7 +1,7 @@
 ﻿//my new project
-int[,] arr = new int[2, 3]
+int[,] arr = new int[3, 3]
 {
-{12,3,5 }, {1,2,5}
+{12,3,5 }, {1,2,5},{89,43,51}
 };
 
 int m = 90;
