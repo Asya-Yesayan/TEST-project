@@ -7,3 +7,5 @@ int[,] arr = new int[2, 3]
 int m = 90;
 string name = "Asya";
 
+arr[2, 3] = 101;
+
